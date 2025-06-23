@@ -1,6 +1,6 @@
 ---
-title: Final Assignment Blitz — June 2025
-layout: default
+Title: Final Assignment Blitz — June 2025
+Layout: default
 ---
 
 # 🧠 Final Assignment Blitz — June 2025
